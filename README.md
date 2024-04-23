@@ -5,7 +5,7 @@
  </tr>
 </table>
 
-# [AOCL-Compression Library Documentation](https://amd.github.io/aocl-compression/)
+# [AOCL-Compression Documentation](https://amd.github.io/aocl-compression/)
 
 <hr class="sphinxhide"></hr>
 
